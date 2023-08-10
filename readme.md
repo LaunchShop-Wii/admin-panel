@@ -9,4 +9,9 @@
 
 
 # FRAMEWORK USED
-We are using PHP for this.
+We are using PHP and some NodeJS for this.
+
+PHP: https://php.net/
+Node-JS: https://nodejs.org/
+
+> To make sure the components are being automatically put in the css, run ``npx tailwindcss -i .\css\tailwindbase.css -o .\css\tailwind.css --watch -c .\tailwind.config.js``, it should auto offer to install <b>tailwindcss</b>!
