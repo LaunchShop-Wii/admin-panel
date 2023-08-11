@@ -1,3 +1,6 @@
+> [!WARNING]
+> We will kick your ass if you leak this. no joke. You, silly ghetto weed smoker.
+
 # Admin Panel - Launchshop
 <em>Source code for the admin panel. You can view stats, manage <b>Public</b> user info (no, we're not going to store sensitive information here, we're not facebook.)</em>
 
